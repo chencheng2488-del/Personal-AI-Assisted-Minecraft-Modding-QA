@@ -76,3 +76,6 @@ AI 能一口气吐出能编译、能运行、能过审的工程，但作为作�
 - Mod 本体（CurseForge）：https://www.curseforge.com/minecraft/mc-mods/infinity-what
 - Mod 本体（MCMOD）：https://www.mcmod.cn/class/31276.html
 - Forge 1.20.1 官方文档：https://docs.minecraftforge.net/en/1.20.1/
+
+  
+希望我的笔记能帮到哪怕一个和我一样长期想尝试成为一名真正的Modder,想在MC社区留下属于自己的印记,但完全不知道该怎么办的人吧
